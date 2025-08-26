@@ -12,7 +12,8 @@
     "kuaidi100": {
       "command": "npx",
       "args": [
-        "@kuaidi100/kuaidi100-mcp"
+        "-y",
+        "@kuaidi100-mcp/kuaidi100-mcp-server"
       ],
       "env": {
         "KUAIDI100_API_KEY": "<YOUR_API_KEY>"
